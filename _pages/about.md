@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>141 Hudson St</p>
     <p>Newark, NJ 07103</p>
-   # <p>Your City, State 12345</p>
+    <p>United States Of America</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
