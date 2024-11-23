@@ -5,7 +5,7 @@
     "image": "",
     "email": "sovit.nayak03@gmail.com",
     "phone": "(716) 295-3415",
-    "url": "hhttps://sovit-nayak.github.io/",
+    "url": "https://sovit-nayak.github.io/",
     "summary": "A Data Scientist with Research interests in Knowledge Distillation In LLMs",
     "location": {
       "address": "141 Hudson St",
@@ -27,21 +27,23 @@
       "name": "Vigil AI",
       "position": "Data Engineer / Machine Learning Engineer",
       "url": "https://www.linkedin.com/in/sovitnayak/details/experience/",
-      "startDate": "2024-24-08",
+      "startDate": "2024-08-24",
       "endDate": "present",
-      // "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "gf"]
-    }
-
+      "highlights": ["Developed scalable data pipelines", "Implemented machine learning algorithms"]
+    },
     {
       "name": "Career Labs",
       "position": "Data Analytics Engineer",
       "url": "https://www.linkedin.com/in/sovitnayak/details/experience/",
-      "startDate": "2024-24-08",
-      "endDate": "present",
-      // "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "gf"]
-    }    
+      "startDate": "2021-09-01",
+      "endDate": "2023-07-31",
+      "highlights": [
+        "Created 20+ ETL pipelines to process 1.5 billion records weekly",
+        "Designed machine learning models for fraud detection, improving detection rates by 15%",
+        "Collaborated with cross-functional teams to deploy AI-driven solutions"
+      ]
+    }
+    
   ],
   "volunteer": [
     {
