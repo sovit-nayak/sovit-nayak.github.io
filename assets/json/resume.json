@@ -8,11 +8,11 @@
     "url": "hhttps://sovit-nayak.github.io/",
     "summary": "A Data Scientist with Research interests in Knowledge Distillation In LLMs",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "141 Hudson St",
+      "postalCode": "NJ 07103",
+      "city": "Newark",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Jersey"
     },
     "profiles": [
       {
@@ -24,11 +24,11 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Vigil AI",
+      "position": "Data Engineer / Machine Learning Engineer",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2024-24-08",
+      "endDate": "present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
