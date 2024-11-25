@@ -29,7 +29,15 @@
       "url": "https://www.linkedin.com/in/sovitnayak/details/experience/",
       "startDate": "2024-08-24",
       "endDate": "present",
-      "highlights": ["Developed scalable data pipelines", "Implemented machine learning algorithms"]
+      "highlights": [
+        "Architected a high-performance data warehouse on AWS Redshift with columnar storage and automatic encoding, reducing reporting time by 40% and optimizing cost-efficiency.", 
+        "Engineered 15+ scalable ETL pipelines using AWS Glue and Informatica, reducing data integration time by 50% and processing 2TB+ of data weekly for enterprise reporting.",
+        "Designed and implemented data models using Redshift and Snowflake, boosting query performance by 40% and reducing data retrieval times from 60 seconds to under 30 seconds",
+        "Utilized HiveQL and SparkSQL for large-scale data querying, cutting down processing time by 35% across 1B+ records.",
+        "Built a distributed streaming data pipeline with Apache Kafka and Spark, increasing data processing speed by 60%, handling over 10M events per day.",
+        "Optimized Video Llama 2 using transfer learning techniques with PyTorch and CUDA across 100K annotated samples, enhancing content moderation accuracy to 92% across 1M+ videos, reducing false positives by 40%.",
+        "Developed and fine-tuned Convolutional Neural Networks (CNNs) for real-time object detection, leveraging PyTorch and OpenCV, boosting AR tools like facial recognition and gesture interaction by 25%."  
+      ]
     },
     {
       "name": "Career Labs",
