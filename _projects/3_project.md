@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Blog Generator Using LLaMA2
+description: Langchain, Transformers, Hugging Face, LLaMA2, Streamlit
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/sovit-nayak/Blog-Generator-Using-LLaMA2
 importance: 3
-category: work
+category: Data Science & AI
 ---
 
 Every project has a beautiful feature showcase page.
