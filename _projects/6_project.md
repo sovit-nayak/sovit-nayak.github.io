@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Orders Report Looker studio Dashboard
+description: Orders, Customers, Trends (Yearly, Monthly), Region
+img: assets/img/2.jpg
 importance: 4
-category: fun
+redirect : https://lookerstudio.google.com/reporting/14a5e410-7c7e-4d51-8584-183f11f7df0e/page/BF18D
+category: Data Visualizations & Analytics
 ---
 
 Every project has a beautiful feature showcase page.

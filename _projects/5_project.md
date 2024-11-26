@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: KPI Tracking Tableau Dashboard
+description: KPIs, Sales, Profit, Orders, Inventory, Tracking
+redirect : https://public.tableau.com/app/profile/sovit.nayak/viz/Sales_Profit_Dashboard_17175614175980/Dashboard1
+img: assets/img/1.png
+importance: 4
+category: Data Visualizations & Analytics
 ---
 
 Every project has a beautiful feature showcase page.

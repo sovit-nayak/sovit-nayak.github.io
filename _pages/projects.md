@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool and Unique projects.
 nav: true
 nav_order: 3
-display_categories: [Data Engineering , Data Science & AI]
+display_categories: [Data Engineering , Data Science & AI, Data Visualizations & Analytics]
 horizontal: True
 ---
 
