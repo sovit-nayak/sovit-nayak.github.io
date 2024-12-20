@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Organ Segmentation with MONAI & TCIA Data
+title: Organ-Segmentation with MONAI 
 description: PyTorch, MONAI, pydicom, Medical Imaging, TCIA API Integration, SciPy
 img: assets/img/image.png
 redirect : https://github.com/sovit-nayak/organ_segmentation
 importance: 1
-category: Data Science & AI
+category: Machine Learning & AI
 ---
 
 Every project has a beautiful feature showcase page.
