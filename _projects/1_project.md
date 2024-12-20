@@ -3,7 +3,7 @@ layout: page
 title: Kafka Stock Stream OLTP on AWS
 description: boto3, EC2, S3, AWS Glue, AWS Athena , Apache Kafka
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: Data Engineering
 redirect : https://github.com/sovit-nayak/Kafka-Stock-Stream-OLTP-Project-on-AWS
 related_publications: False
