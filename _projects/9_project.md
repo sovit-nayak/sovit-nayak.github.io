@@ -2,7 +2,7 @@
 layout: page
 title: End-to-End ETL Pipeline for Data Processing and Visualization
 description: Data extraction, transformation, and Visualization leveraging tools like Airflow, AWS (EC2, S3), Snowpipe to trigger and load transformed data into Snowflake.
-img: assets/img/44.jpg
+img: assets/img/44.png
 importance: 1
 category: Data Engineering
 redirect : https://github.com/sovit-nayak/redfin-pipeline
