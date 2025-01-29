@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
+title: HR Dashboard
+description: analyzed & projected employee retention and budget reallocation for HR Teams
+img: assets/img/22.png
+importance: 1
+category: Data Analytics & Business Intelligence
 giscus_comments: true
 ---
 

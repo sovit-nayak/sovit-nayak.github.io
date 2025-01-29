@@ -5,7 +5,7 @@ description: KPIs, Sales, Profit, Orders, Inventory, Tracking
 redirect : https://public.tableau.com/app/profile/sovit.nayak/viz/Sales_Profit_Dashboard_17175614175980/Dashboard1
 img: assets/img/1.png
 importance: 4
-category: Data Visualizations & Analytics
+category: Data Analytics & Business Intelligence
 ---
 
 Every project has a beautiful feature showcase page.

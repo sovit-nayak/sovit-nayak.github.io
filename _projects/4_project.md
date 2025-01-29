@@ -5,7 +5,7 @@ description: Python, Pandas, XGBoost, ARIMA, EDA, Matplotlib
 img: assets/img/4.jpg
 redirect : https://github.com/sovit-nayak/Time_series_forecasting
 importance: 3
-category: Data Science & AI
+category: Data Science 
 ---
 
 Every project has a beautiful feature showcase page.

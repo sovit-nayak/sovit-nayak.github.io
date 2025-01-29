@@ -5,7 +5,7 @@ description: Langchain, Transformers, Hugging Face, LLaMA2, Streamlit
 img: assets/img/7.jpg
 redirect: https://github.com/sovit-nayak/Blog-Generator-Using-LLaMA2
 importance: 3
-category: Data Science & AI
+category: Data Science 
 ---
 
 Every project has a beautiful feature showcase page.
