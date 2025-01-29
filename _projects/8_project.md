@@ -1,8 +1,9 @@
 ---
 layout: page
 title: HR Dashboard
-description: analyzed & projected employee retention and budget reallocation for HR Teams
+description: Analyzed & projected employee retention and budget reallocation to facilitate HR Teams
 img: assets/img/22.png
+redirect : https://public.tableau.com/app/profile/sovit.nayak/viz/HR_Dashboard_17366613962820/HRDashboard
 importance: 1
 category: Data Analytics & Business Intelligence
 giscus_comments: true

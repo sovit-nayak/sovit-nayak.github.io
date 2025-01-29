@@ -3,7 +3,7 @@ layout: page
 title: Uber Data Analytics and Engineering with GCP
 description: Building Data Models and Scalable Data Pipelines, Mage AI
 img: assets/img/3.jpg
-importance: 2
+importance: 3
 category: Data Engineering
 redirect : https://github.com/sovit-nayak/uber_etl_data_pipeline_analytics
 giscus_comments: true
